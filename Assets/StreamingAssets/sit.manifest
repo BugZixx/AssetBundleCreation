@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3619473371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 609c795640da53afab7ad35af6a3699a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b893e988176176a3edd7788e220fb20
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/AvatarRokoko@campeao.fbx
+- Assets/Animations/AvatarRokoko@quero.fbx
+- Assets/Animations/AvatarRokoko@eu.fbx
+- Assets/Animations/AvatarRokoko@clube.fbx
+Dependencies: []

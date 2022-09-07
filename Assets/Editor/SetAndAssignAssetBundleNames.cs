@@ -24,7 +24,7 @@ public class SetAndAssignAssetBundleNames : EditorWindow
             Close();
     }
 
-    [MenuItem("AssetBundles/Set AssetBundle Names", false, 0)]
+    [MenuItem("AssetBundles/Set New AssetBundle Name", false, 0)]
     static void Init()
     {
         EditorWindow window = EditorWindow.CreateInstance<SetAndAssignAssetBundleNames>();
@@ -33,6 +33,7 @@ public class SetAndAssignAssetBundleNames : EditorWindow
 
     static void SetAssetBundle(string name)
     {
+        AssetDatabase.RemoveUnusedAssetBundleNames();
         if (name == "") name = "newbundle";
 
         string[] assets = Directory.GetFiles("Assets/Animations/");
@@ -50,7 +51,7 @@ public class SetAndAssignAssetBundleNames : EditorWindow
         }
         else
         {
-            Debug.Log("No Assets Selected");
+            Debug.Log("No Assets in Folder 'Animations'");
         }
     }
 }

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1625360929
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65818b8c50370f7c48e8ba0afb6a785e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de5b6614feb6f94b0a6e2f2cfc56359c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/kevin@dois.fbx
+- Assets/Animations/kevin@um.fbx
+- Assets/Animations/kevin@pronto.fbx
+- Assets/Animations/kevin@tres.fbx
+- Assets/Animations/kevin@frango.fbx
+- Assets/Animations/kevin@coxa.fbx
+- Assets/Animations/kevin@cinco_qnt.fbx
+- Assets/Animations/kevin@seis.fbx
+- Assets/Animations/kevin@pao.fbx
+- Assets/Animations/kevin@bife.fbx
+- Assets/Animations/kevin@carne.fbx
+- Assets/Animations/kevin@ola.fbx
+- Assets/Animations/kevin@cinco.fbx
+- Assets/Animations/kevin@melhor.fbx
+- Assets/Animations/kevin@quatro.fbx
+- Assets/Animations/kevin@um_qnt.fbx
+- Assets/Animations/kevin@picanha.fbx
+- Assets/Animations/kevin@quando.fbx
+- Assets/Animations/kevin@oito.fbx
+- Assets/Animations/kevin@multibanco.fbx
+- Assets/Animations/kevin@zero.fbx
+- Assets/Animations/kevin@qual.fbx
+- Assets/Animations/kevin@natas.fbx
+- Assets/Animations/kevin@mais_fino.fbx
+- Assets/Animations/kevin@tres_qnt.fbx
+- Assets/Animations/kevin@sete.fbx
+- Assets/Animations/kevin@quatro_qnt.fbx
+- Assets/Animations/kevin@nove.fbx
+Dependencies: []

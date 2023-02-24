@@ -1,0 +1,90 @@
+ManifestFileVersion: 0
+CRC: 4112806035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4141b6de339d982e3b8b664df3e04fad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: de5b6614feb6f94b0a6e2f2cfc56359c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/kevin@trazer.fbx
+- Assets/Animations/kevin@muito_bom.fbx
+- Assets/Animations/kevin@com.fbx
+- Assets/Animations/kevin@meu.fbx
+- Assets/Animations/kevin@casa.fbx
+- Assets/Animations/kevin@substancial.fbx
+- Assets/Animations/kevin@trazer_interrogacao.fbx
+- Assets/Animations/kevin@esperar_que.fbx
+- Assets/Animations/kevin@dinheiro.fbx
+- Assets/Animations/kevin@esta.fbx
+- Assets/Animations/kevin@sardinha.fbx
+- Assets/Animations/kevin@passada.fbx
+- Assets/Animations/kevin@chegar.fbx
+- Assets/Animations/kevin@agora.fbx
+- Assets/Animations/kevin@poder.fbx
+- Assets/Animations/kevin@grelhar.fbx
+- Assets/Animations/kevin@dose.fbx
+- Assets/Animations/kevin@aqui.fbx
+- Assets/Animations/kevin@vinho.fbx
+- Assets/Animations/kevin@muito_bem.fbx
+- Assets/Animations/kevin@mulher.fbx
+- Assets/Animations/kevin@branco.fbx
+- Assets/Animations/kevin@ate_ja.fbx
+- Assets/Animations/kevin@esgotar.fbx
+- Assets/Animations/kevin@tinto.fbx
+- Assets/Animations/kevin@preferir.fbx
+- Assets/Animations/kevin@minha.fbx
+- Assets/Animations/kevin@cereja.fbx
+- Assets/Animations/kevin@nome.fbx
+- Assets/Animations/kevin@preco.fbx
+- Assets/Animations/kevin@ananas.fbx
+- Assets/Animations/kevin@provar.fbx
+- Assets/Animations/kevin@desde.fbx
+- Assets/Animations/kevin@euro.fbx
+- Assets/Animations/kevin@azeite.fbx
+- Assets/Animations/kevin@nao_haver.fbx
+- Assets/Animations/kevin@epoca.fbx
+- Assets/Animations/kevin@obrigado.fbx
+- Assets/Animations/kevin@senhor.fbx
+- Assets/Animations/kevin@meia.fbx
+- Assets/Animations/kevin@a_vontade.fbx
+- Assets/Animations/kevin@gramas.fbx
+- Assets/Animations/kevin@haver.fbx
+- Assets/Animations/kevin@preto.fbx
+- Assets/Animations/kevin@querer.fbx
+- Assets/Animations/kevin@tu.fbx
+- Assets/Animations/kevin@bom_dia.fbx
+- Assets/Animations/kevin@conta_valor.fbx
+- Assets/Animations/kevin@nao.fbx
+- Assets/Animations/kevin@kg.fbx
+- Assets/Animations/kevin@mais_interrogacao.fbx
+- Assets/Animations/kevin@ja.fbx
+- Assets/Animations/kevin@sugerir.fbx
+- Assets/Animations/kevin@semana.fbx
+- Assets/Animations/kevin@gostar.fbx
+- Assets/Animations/kevin@deliciosa.fbx
+- Assets/Animations/kevin@poder_interrogacao.fbx
+- Assets/Animations/kevin@ementa.fbx
+- "Assets/Animations/kevin@ma\xE7as.fbx"
+- Assets/Animations/kevin@bebida.fbx
+- Assets/Animations/kevin@dizer_eu.fbx
+- Assets/Animations/kevin@fresca.fbx
+- Assets/Animations/kevin@nossa.fbx
+- Assets/Animations/kevin@baixar.fbx
+- Assets/Animations/kevin@sim.fbx
+- Assets/Animations/kevin@uva.fbx
+- Assets/Animations/kevin@por_favor.fbx
+- Assets/Animations/kevin@apenas_so.fbx
+- Assets/Animations/kevin@amanha.fbx
+- Assets/Animations/kevin@escolher.fbx
+Dependencies: []

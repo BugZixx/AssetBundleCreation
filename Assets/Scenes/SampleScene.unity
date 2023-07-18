@@ -500,7 +500,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 310.35, y: 304.17}
+  m_SizeDelta: {x: 368.79, y: 447.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1765076569
 MonoBehaviour:
@@ -535,22 +535,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Passo 1: Importar ficheiros .fbx para a pasta Assets/Animations
-
-
-    Passo
-    2: (na barra superior) AssetBundles -> Set AssetBundle Names
-
-
-    Passo 3: Definir
-    o nome do novo AssetBundle e confirmar
-
-
-    Passo 4: (na barra superior) AssetBundles
-    -> Build AssetBundle
-
-
-    Passo 5: Eliminar os ficheiros da pasta Assets/Animations'
+  m_Text: "Passo 1: Importar ficheiros .fbx para a pasta Assets/Animations\n\nPasso
+    2: (na barra superior) AssetBundles -> Set AssetBundle Names\n\nPasso 3: Definir
+    o nome do novo AssetBundle e confirmar\nNota: O nome final do bundle ser\xE1
+    \"bundle\" + o_nome_inserido_na_caixa_de_texto + numero_do_bundle\n\nPasso 4:
+    (na barra superior) AssetBundles -> Build AssetBundle\n\nPasso 5: Eliminar os
+    ficheiros da pasta Assets/Animations"
 --- !u!222 &1765076570
 CanvasRenderer:
   m_ObjectHideFlags: 0
